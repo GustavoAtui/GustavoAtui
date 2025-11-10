@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋Olá, meu nome é Gustavo Atui, tenho 20 anos e  sou de Mogi das Cruzes ,Sp. <br> 📚 Me formei no Colégio Objetivo de Mogi das Cruzes <br>📚Atualmente  estou no quinto semestre do curso Ciência da Computação na FEI(Fundação Educacional Inaciana Padre Sabóia de Medeiros)</p>
+<p align="left">👋Olá, meu nome é Gustavo Atui, tenho 21 anos e sou de Mogi das Cruzes ,Sp. <br>📚Atualmente  estou no quinto semestre do curso Ciência da Computação na FEI(Fundação Educacional Inaciana Padre Sabóia de Medeiros)</p>
 
 ###
 
